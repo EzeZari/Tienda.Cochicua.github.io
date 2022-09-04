@@ -1,0 +1,95 @@
+[
+  { "id": 1,
+    "marca": "Absolut",
+    "precio": 3500,
+    "tipo": "Vodka", 
+    "img": "https://jumboargentina.vtexassets.com/arquivos/ids/687342/Vodka-Absolut-700ml-1-884184.jpg?v=637795965695630000"
+    
+  },
+  { "id": 2,
+   "marca": "Smirnoff",
+   "precio": 1000,
+   "tipo": "Vodka",
+   "img":"https://supermaxsa.com.ar/wp-content/uploads/2020/07/11241_optimized.png"
+ },
+  { "id": 3,
+   "marca": "Skyy",
+   "precio": 970, 
+   "tipo": "Vodka",
+   "img":"https://jumboargentina.vtexassets.com/arquivos/ids/505982-800-600?v=636832183493300000&width=800&height=600&aspect=true"
+   
+
+ },
+  { "id": 4,
+   "marca": "Fernet Branca 1L",
+   "precio": 1600, 
+   "tipo": "Fernet",
+   "img":"https://www.drinkshopstore.com/3882-large_default/fernet-branca-1l-390-vol.jpg"
+   
+
+
+ },
+  { "id": 5,
+   "marca": "Fernet Branca 750ml",
+   "precio": 1350, 
+   "tipo": "Fernet",
+   "img":"https://www.drinkshopstore.com/3882-large_default/fernet-branca-1l-390-vol.jpg"
+   
+
+ },
+  { "id": 6,
+   "marca": "Gin Bombay",
+   "precio": 5000, 
+   "tipo": "Gin",
+   "img":"https://quirinobebidas.com.ar/wp-content/uploads/2020/06/GIN-BOMBAY.jpg"
+   
+
+ },
+  { "id": 7,
+   "marca": "Gin Beefeater",
+   "precio": 4700, 
+   "tipo": "Gin",
+   "img":"http://d3ugyf2ht6aenh.cloudfront.net/stores/001/211/660/products/beefeater-20211-105b4c8048f1d9f7da16214295898598-640-0.png"
+   
+
+ },
+  { "id": 8,
+   "marca": "Gin Beefeater Pink",
+   "precio": 4900, 
+   "tipo": "Gin",
+   "img":"http://d3ugyf2ht6aenh.cloudfront.net/stores/001/532/429/products/befeterpink1-c68ded216a1ed843bf16119293412706-640-0.jpg"
+   
+
+ },
+  { "id": 9,
+   "marca": "Baron B",
+   "precio": 6300, "tipo": "Champagne",
+   "img":"https://d2r9epyceweg5n.cloudfront.net/stores/001/185/448/products/baron-b-extra-brut-750-ml11-1a65aa3a52740c5b9e15890655055185-1024-1024.jpg"
+   
+
+ },
+  { "id": 10,
+   "marca": "Chandon Rosé",
+   "precio": 2500, 
+   "tipo": "Champagne",
+   "img":"http://d3ugyf2ht6aenh.cloudfront.net/stores/001/170/454/products/chandon-rose1-73d9e79d3d5ea087d915947419783148-640-0.jpg"
+   
+
+ },
+ { "id": 11,
+ "marca": "Navarro Correas",
+ "precio": 1500, 
+ "tipo": "Champagne",
+ "img":"https://ardiaprod.vtexassets.com/arquivos/ids/214594/Champagne-Navarro-Correa-Extra-Brut-750-Ml-_1.jpg?v=637713686513400000"
+ 
+
+ },
+ { "id": 12,
+   "marca": "Jack Daniel´s",
+   "precio": 7900, 
+   "tipo": "Whisky",
+   "img":"https://bzsgrupobebidas.com.ar/wp-content/uploads/2019/10/jack-daniels.jpg"
+   
+
+ }
+]
